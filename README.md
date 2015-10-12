@@ -1,1 +1,1 @@
-This contains all my Android Nanodegree assignment projects.
+This contains all my Udacity project work.
